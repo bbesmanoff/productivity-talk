@@ -337,6 +337,6 @@ In vim, `^dW$BhD` can do this
 [prag_prog_cover]: images/prag_prog.jpg
 [jack_stand]: images/rig.jpg
 [standing_desk]: images/standing_desk.gif
-[tmuxifier]: /images/tmuxifier.png
+[tmuxifier]: images/tmuxifier.png
 [bens_talk]: http://original.livestream.com/e4egroundfloor2/video?clipId=pla_de7943c3-3829-4242-8a6a-5cf989227c99
 [reveal-ck]: https://github.com/jedcn/reveal-ck
