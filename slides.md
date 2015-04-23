@@ -53,11 +53,21 @@ Brian Besmanoff
 
 ---
 
-# Where Do We Go from Here?
+# What is This Talk?
+
+---
+
+# What is This Talk?
+Tips and tricks for acheiving productivity  
 
 ---
 
 ![The Pragmatic Programmer][prag_prog_cover]
+
+---
+
+## Disclaimer:
+### Your Results may Vary
 
 ---
 
@@ -78,7 +88,44 @@ Brian Besmanoff
 
 ---
 
-## Stand up
+### Find tools that help you do this
+Window managers for throwing around windows  
+Alternative key bindings for applications  
+Plugins to existing applications
+
+---
+
+## Practice Typing
+
+---
+
+## Practice Typing
+http://play.typeracer.com
+
+---
+
+## Stand Up
+
+---
+
+## Stand Up
+Healthy  
+Keeps you moving
+
+---
+
+## But I don't have spare $X00 for a desk...
+
+---
+
+## Make one
+![Jack Stand Desk][jack_stand]
+
+---
+
+## Stand Up
+
+![Standing Desk][standing_desk]
 
 ---
 
@@ -129,3 +176,5 @@ history
 
 [repo]: https://github.com/bbesmanoff/productivity-talk
 [prag_prog_cover]: /images/prag_prog.jpg
+[jack_stand]: /images/rig.jpg
+[standing_desk]: /images/standing_desk.gif
