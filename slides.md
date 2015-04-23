@@ -24,6 +24,10 @@ Brian Besmanoff
 
 # What isn't "Developer Productivity"?
 
+---
+
+# What isn't "Developer Productivity"?
+
 > “Measuring programming progress by lines of code is like measuring aircraft
 > building progress by weight.”
 >
@@ -296,6 +300,16 @@ Make it work for you
 
 ---
 
+## Be Portable
+
+---
+
+## Be Portable
+
+Dotfiles should be quick to move and setup
+
+---
+
 # Text Editors
 
 ---
@@ -331,6 +345,37 @@ In vim, `^dW$BhD` can do this
 
 `@q` from anywhere on the line
 
+---
+
+## Find Options that work for you
+
+---
+
+## Example: Relative Numbers
+
+![Relative Numbers][rnu]
+
+(so meta)
+
+---
+
+## Embrace Plugins
+
+---
+
+## Embrace Plugins
+
+You don't need all of them
+
+Some are really nice
+
+---
+
+# Where Do I Go From Here?
+
+---
+
+This was a *non-exhaustive* list of tips
 
 
 [repo]: https://github.com/bbesmanoff/productivity-talk
@@ -340,3 +385,4 @@ In vim, `^dW$BhD` can do this
 [tmuxifier]: images/tmuxifier.png
 [bens_talk]: http://original.livestream.com/e4egroundfloor2/video?clipId=pla_de7943c3-3829-4242-8a6a-5cf989227c99
 [reveal-ck]: https://github.com/jedcn/reveal-ck
+[rnu]: images/rnu.png
