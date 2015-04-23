@@ -375,7 +375,21 @@ Some are really nice
 
 ---
 
+# Where Do I Go From Here?
 This was a *non-exhaustive* list of tips
+
+---
+
+# Where Do I Go From Here?
+This was a *non-exhaustive* list of tips
+
+Try things out
+
+---
+
+:question:
+
+
 
 
 [repo]: https://github.com/bbesmanoff/productivity-talk
